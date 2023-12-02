@@ -10,8 +10,8 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Samar Ali",
-      "homepage": "https://github.com/Samar-Ali/php-graph-sdk/contributors"
+      "name": "Facebook",
+      "homepage": "https://github.com/facebook/php-graph-sdk/contributors"
     }
   ],
   "require": {
